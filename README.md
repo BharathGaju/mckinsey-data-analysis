@@ -1,5 +1,7 @@
 # McKinsey Data Analysis Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b1DCTYFBsbiqArJz3SRiZBLxYC77jcg3#scrollTo=YYd2BmfoLSpZ)
+
 ## Objective
 Analyze business data to uncover trends, performance patterns, and strategic insights.
 
@@ -86,3 +88,4 @@ Is GDP per capita distribution skewed? (Hint: a few countries like Kuwait or Nor
 3. Visualization
 4. Statistical Analysis
 5. Business Recommendations
+
